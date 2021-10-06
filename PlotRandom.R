@@ -40,4 +40,4 @@ plotRandomNormals <- function(numpts=1000,
 ## Test the function
 
 plotRandomNormals
-plotRandomNormals()
+plotRandomNormals(linewidth=5)
